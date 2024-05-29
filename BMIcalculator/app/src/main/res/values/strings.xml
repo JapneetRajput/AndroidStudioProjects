@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="bmi">Your BMI is %1$.1f</string>
+</resources>

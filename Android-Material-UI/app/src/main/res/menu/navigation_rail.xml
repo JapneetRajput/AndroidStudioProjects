@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/icon_app"
+        android:enabled="true"
+        android:icon="@android:drawable/star_big_on"
+        android:title="@string/Icon"
+         />
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="@string/Home"
+         />
+    <item
+        android:id="@+id/skills"
+        android:enabled="true"
+        android:icon="@drawable/skills"
+        android:title="@string/Skills"/>
+    <item
+        android:id="@+id/photos"
+        android:enabled="true"
+        android:icon="@drawable/photos"
+        android:title="@string/Photos"/>
+    <item
+        android:id="@+id/videos"
+        android:enabled="true"
+        android:icon="@drawable/videos"
+        android:title="@string/Videos"/>
+    </menu>

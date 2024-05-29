@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "4204038127",
+    "project_id": "videostream-firebase",
+    "storage_bucket": "videostream-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4204038127:android:2a828b61ed025a725e981a",
+        "android_client_info": {
+          "package_name": "com.example.videostreamfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4204038127-q0p93dofvuig9m9dc0aafd49qj3rvo6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videostreamfirebase",
+            "certificate_hash": "d574ca70790e9ead0215e7e8a3ad20ce82891c0d"
+          }
+        },
+        {
+          "client_id": "4204038127-lk5hjeno0ghcfat0bvor74cockjvkjug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHEYqBx9w9KtcbNJso9W7eRYX17wwQvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4204038127-lk5hjeno0ghcfat0bvor74cockjvkjug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

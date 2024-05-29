@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkFlow</string>
+    <string name="hint_resource">Choose Level</string>
+    <string-array name="levels">
+        <item>Choose Level</item>
+        <item>User</item>
+        <item>Guide</item>
+        <!--        <item>Employee</item>-->
+    </string-array>
+</resources>

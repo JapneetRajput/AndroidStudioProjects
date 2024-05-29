@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">materialui_trial</string>
+    <string name="Icon">App Icon</string>
+    <string name="Home">Home</string>
+    <string name="Skills">Skills</string>
+    <string name="Photos">Photos</string>
+    <string name="Videos">Videos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="skills_fragment">Skills Fragment</string>
+    <string name="photos_fragment">Photos Fragment</string>
+    <string name="videos_fragment">Videos Fragment</string>
+</resources>
